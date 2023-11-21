@@ -1,0 +1,44 @@
+Zadanie 1 
+
+HTML 4.01 Strict:
+Najbardziej restrykcyjna wersja.
+Ogranicza użycie elementów i atrybutów do tych zdefiniowanych w standardzie.
+Zaleca unikanie tabel do układu strony, zachęcając do użycia arkuszy stylów CSS.
+
+HTML 4.01 Transitional:
+Bardziej elastyczna wersja niż Strict.
+Pozwala na korzystanie z elementów i atrybutów, które zostały uznane za przestarzałe w nowszych wersjach HTML.
+Działa jako etap przejściowy dla stron, które są nadal rozwijane i nie spełniają pełnych standardów Strict.
+
+HTML 4.01 Frameset:
+Służy do tworzenia stron z ramkami (frames).
+Pozwala na korzystanie z elementów i atrybutów z wersji Transitional.
+Ta wersja jest przewidziana dla stron używających ramki do podziału okna przeglądarki na kilka obszarów.
+
+Zadanie 2 
+<!doctype html>
+<html lang"pl>
+
+<head>
+<title>moja strona</title>
+</head>
+
+<body>
+to jest moja strona internetowa
+</body>
+
+Zadanie 3
+
+W języku polskim
+
+Przykład do zadania
+
+DTD XHTML 1.1
+
+TEST 2
+
+1 - C
+2 - C
+3 - D
+4 - A
+5 - A

@@ -1,0 +1,26 @@
+Jakub Lasek
+
+1.3.11
+<ul> - definiowane są listy nieuporządkowane
+<body> - ozpoczyna sekcję właściwej treści dokumentu; zawiera właściwą treść, w tym teksty, grafikę i rodzaj formatowania.
+<li> - określa element listy
+<html> - są częścią składni języka HTML zawierające informacje o strukturze i wyglądzie strony internetowej
+
+
+
+Znacznik     Atrybut		Wartość Atrybutu
+<a>	      href		URL lub ścieżka do docelowego zasobu
+<font>	      color		Kolor tekstu
+<p>	      align		left, right, center, justify (do wyrównywania tekstu)
+<meta>	      charset		Określa zestaw znaków dokumentu (np. "UTF-8")
+<body>	      bgcolor		Kolor tła strony
+
+
+
+
+Test 3
+1.a 
+2.c
+3.b
+4.a
+5.a

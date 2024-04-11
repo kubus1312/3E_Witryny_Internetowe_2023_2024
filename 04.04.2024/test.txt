@@ -1,0 +1,11 @@
+test
+Zad 1
+A
+Zad 2
+C
+Zad 3 
+B 
+Zad 4
+D
+Zad 5 
+D

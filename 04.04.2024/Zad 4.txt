@@ -1,0 +1,5 @@
+HTML 4 : znaczniki <basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt>,
+
+HTML 5 : usunieto znaczniki <basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt> zastapiono je znacznikami
+ <article>, <header>, <details>, <figure>, <nav>, <section>, <mark>, <time>, <audio>,<video>, <source>, <bdo>, <rp>.
+Wersja HTML 5 uproscila zapis znaczników jezykowych, rozbudowane formularze
